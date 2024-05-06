@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'GoodVibes';
+  font-style:  normal;
+  font-weight: 100;
+  src: url("../fonts/GoodVibesCyr.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: 'NotoSerif';
+  font-style:  normal;
+  font-weight: 100;
+  src: url("../fonts/NotoSerif_Condensed-Regular.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: 'RobotoCondensed';
+  font-style:  normal;
+  font-weight: 400;
+  src: url("../fonts/Roboto_Condensed-Regular.ttf") format("ttf");
+}
+

@@ -329,6 +329,7 @@ h1, h2, h3, h4, h5, h6, p {
     grid-column-gap: 24px;
     justify-content: center;
 }
+
 .footer-lead {
     padding-top: 43px;
     width: 150px;
